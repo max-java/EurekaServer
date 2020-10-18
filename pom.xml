@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>by.jrr</groupId>
 	<artifactId>eureka-server-service</artifactId>
-	<version>${VERSION_NUMBER}</version>
+	<version>.${VERSION_NUMBER}</version>
 	<name>eureka</name>
 
 	<description>Eureka server Service</description>
