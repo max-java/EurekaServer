@@ -42,6 +42,13 @@
 				<spring-profile>prod</spring-profile>
 			</properties>
 		</profile>
+		<profile>
+			<id>aws</id>
+			<properties>
+				<spring-profile>aws</spring-profile>
+			</properties>
+		</profile>
+
 	</profiles>
 
 	<dependencies>
